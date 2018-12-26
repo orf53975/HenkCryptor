@@ -1,3 +1,3 @@
 # HenkCryptor
-Can encrypt folders/files. 
+HenlCryptor can encrypt folders/files. 
 It uses my library HenkEncrypt. 
